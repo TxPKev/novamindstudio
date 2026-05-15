@@ -1,4 +1,4 @@
-# NovaMind Studios
+# NovaMind Studio
 
 Swiss deep-tech studio. Offline AI and hardware integrity architecture.
 
